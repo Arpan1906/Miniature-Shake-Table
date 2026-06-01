@@ -135,19 +135,6 @@ Useful outputs to include:
 - Better synchronization with video capture.
 - Support for additional motor and driver options.
 
-## Report
-
-The full technical report is included in:
-
-`docs/report/Miniature_Shake_Table_Report-Arpan.pdf`
-
-## References
-
-The report bibliography includes literature on shake table design, waste-plastic mixed soil, Arduino control, and stepper driver documentation.
-
-## License
-
-Add a license before publishing publicly. A good default for educational hardware/software projects is MIT for code and CC BY 4.0 for documentation, depending on how you want reuse handled.
 
 ## Author
 
