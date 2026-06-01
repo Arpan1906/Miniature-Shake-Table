@@ -12,6 +12,10 @@ This project presents the design and development of a miniature shake table used
 
 The table uses an Arduino Uno to generate motion profiles, a stepper motor for actuation, and a DM860H/TB6600-class driver to move a linear stage. Acceleration response is measured during testing and used to compare damping, peak response, and energy dissipation between specimens.
 
+<img width="1600" height="900" alt="3" src="https://github.com/user-attachments/assets/0af58994-093b-48c4-931e-3b1d305f418a" />
+
+
+
 ## Project Goals
 
 - Build a low-cost miniature shake table for soil dynamics experiments.
@@ -37,8 +41,6 @@ The system is divided into three main parts:
 - **Mechanical subsystem**: chassis, linear rails, moving stage, coupler, and soil test box.
 - **Electrical subsystem**: Arduino Uno, stepper driver, power supply, wiring, and sensor interface.
 - **Control subsystem**: firmware for motion generation, calibration, homing, and test execution.
-
-## Repository Structure
 
 
 ## Hardware Summary
