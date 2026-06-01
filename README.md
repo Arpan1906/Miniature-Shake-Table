@@ -83,9 +83,7 @@ A detailed BOM should be placed in `hardware/bom/bom.md`. At minimum, include:
 The Arduino firmware generates the motion pulses for the driver and controls the shake table motion profile. The project is designed around STEP/DIR/ENA control and can support simple sinusoidal excitation as well as future custom profiles.
 
 Recommended firmware files:
-- `shake_table_controller.ino`: main program.
-- `config.h`: pin definitions and tuning parameters.
-- `profiles.h`: motion profile functions and lookup tables.
+- `Code.ino`: main program.
 
 ## Motion Profiles
 
