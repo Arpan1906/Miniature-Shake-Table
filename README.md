@@ -45,6 +45,11 @@ The system is divided into three main parts:
 
 ## Hardware Summary
 
+## Wiring Diagram
+
+<img width="609" height="462" alt="image" src="https://github.com/user-attachments/assets/6a5ab656-6dc7-418d-baf3-937eba0205b6" />
+
+
 ### Mechanical Components
 - Linear rails or smooth rods with LM-type bearings.
 - Moving platform for specimen mounting.
