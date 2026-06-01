@@ -40,49 +40,6 @@ The system is divided into three main parts:
 
 ## Repository Structure
 
-```text
-miniature-shake-table/
-├─ README.md
-├─ LICENSE
-├─ .gitignore
-├─ docs/
-│  ├─ report/
-│  │  └─ Miniature_Shake_Table_Report-Arpan.pdf
-│  ├─ figures/
-│  │  ├─ shake_table_photo.jpg
-│  │  ├─ wiring_diagram.png
-│  │  └─ acceleration_plot.png
-│  └─ references.md
-├─ hardware/
-│  ├─ bom/
-│  │  └─ bom.md
-│  ├─ wiring/
-│  │  └─ wiring.md
-│  └─ mechanical/
-│     ├─ chassis.md
-│     ├─ soil_box.md
-│     └─ coupler.md
-├─ firmware/
-│  └─ arduino/
-│     ├─ shake_table_controller/
-│     │  ├─ shake_table_controller.ino
-│     │  ├─ profiles.h
-│     │  └─ config.h
-│     └─ README.md
-├─ experiments/
-│  ├─ protocol.md
-│  ├─ data/
-│  │  ├─ raw/
-│  │  └─ processed/
-│  └─ analysis/
-│     └─ response_comparison.ipynb
-├─ simulations/
-│  ├─ sap2000/
-│  └─ plots/
-└─ assets/
-   ├─ photos/
-   └─ videos/
-```
 
 ## Hardware Summary
 
