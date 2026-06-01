@@ -63,9 +63,9 @@ The system is divided into three main parts:
 
 A detailed BOM should be placed in `hardware/bom/bom.md`. At minimum, include:
 
-- Arduino Uno
+- Arduino Uno R3
 - DM860H driver
-- Stepper motor
+- Stepper motor (NEMA 34)
 - Lead screw or transmission mechanism
 - Linear rails and carriage
 - Power supply
